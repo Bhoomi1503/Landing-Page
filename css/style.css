@@ -1,0 +1,25 @@
+.d-block{
+    height: 600px;
+}
+.img img{
+    display: inline;
+    height: 300px;
+    width: 400px;
+    justify-content: center;
+    padding: 40px 80px;
+}
+img{
+    padding:20px;
+}
+header{
+    height: 50px;
+    background-color: black;
+    position: sticky;
+    color: white;
+    text-align: center;
+    top: 0;
+
+}
+p a{
+    color: blanchedalmond;
+}
